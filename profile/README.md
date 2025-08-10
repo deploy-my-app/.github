@@ -1,12 +1,6 @@
-## Hi there 👋
+## Deploy your app 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+1. Install [Deploy My App](https://github.com/apps/deploy-my-app) on your repository or organization
+2. Create a repository or push code to default branch (most of the time "main" or "master")
+3. Wait for build and deployment
+4. Go to https://REPO_NAME-ORGA_NAME.deploy-my-app.shyndard.net 
